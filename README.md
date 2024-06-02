@@ -16,7 +16,6 @@ The "Age and Gender Detection Using Deep Learning" Flask project aims to build a
 1)Accuracy: The accuracy of age and gender prediction depends on the quality and diversity of the training data. The model may not always provide precise predictions, especially for images with challenging angles, lighting, or occlusions.
 
 2)Face Detection: The system assumes that the input image contains only one face, and face detection is not a part of this project.
-
 3) Age Range: The model's predictions might be limited to a specific age range, and its accuracy might decrease for age groups outside the training data.
 
 #### Conclusion:
