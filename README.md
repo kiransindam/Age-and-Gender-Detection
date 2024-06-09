@@ -12,7 +12,7 @@ The "Age and Gender Detection Using Deep Learning" Flask project aims to build a
 
 5)User-Friendly Interface: The Flask web application offers a user-friendly interface that is easy to navigate and interact with.
 
-[image](https://github.com/kiransindam/Age-and-Gender-Detection-Project/assets/101730779/2b2e2fe0-b619-48b3-a0d3-a28b55f82991)
+Th [image](https://github.com/kiransindam/Age-and-Gender-Detection-Project/assets/101730779/2b2e2fe0-b619-48b3-a0d3-a28b55f82991)
 
 ### Limitations:
 1)Accuracy: The accuracy of age and gender prediction depends on the quality and diversity of the training data. The model may not always provide precise predictions, especially for images with challenging angles, lighting, or occlusions.
